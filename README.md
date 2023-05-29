@@ -4,7 +4,7 @@
 Недавно я окончил курсы Яндекс Практикум **Аналитик данных** и с  нетерпением  жду возможности поднять своих навыки на новый уровень 	&#128170;. 
 Примеры моих работ можно увидеть в этом <a href="https://github.com/konstantin-novikov/yandex_practicum_da"> репозитории</a>, а так же сам <a href="https://disk.yandex.ru/i/Xnp02c_IBFkzkg">диплом</a>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Мои соц.сети:</h3>
 <p align="left">
 <a href="https://instagram.com/kostya_novikov88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kostya_novikov88" height="30" width="40" /></a>
 <a href="https://vk.com/kostyanovikov"           target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="kostyanovikov" height="30" width="40" /></a>
