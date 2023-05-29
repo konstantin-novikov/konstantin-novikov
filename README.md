@@ -5,6 +5,7 @@
 Примеры моих работ можно увидеть в этом <a href="https://html5css.ru/html/">репозитории</a> а так же сам <a href="https://disk.yandex.ru/i/Xnp02c_IBFkzkg">диплом</a>
 
 - 📫 Моя почта **konstantin@novikov88.ru**
+- <i class="fa-brands fa-vk"></i>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
